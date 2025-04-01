@@ -32,7 +32,7 @@ This application has been developed using Flutter Framework and Dart Language an
 
  <table>
   <tr>
-     <td>Android Microphone Access/td>
+     <td>Android Microphone Access</td>
      <td>Home Page</td>
      <td>Android Chat Interface</td>
     
