@@ -48,9 +48,9 @@ This application has been developed using Flutter Framework and Dart Language an
 
 
 ## 🛠️ Tech Stack
-**Flutter**: Cross-platform mobile app development framework.
-**Riverpod** : Riverpod’s StateNotifierProvider efficiently listen to state changes for conversational chat interface for chat states.
-**http package** is used to send network requests to the OpenWeather API and other external services to fetch and display weather and car data.
+* **Flutter**: Cross-platform mobile app development framework.
+* **Riverpod** : Riverpod’s StateNotifierProvider efficiently listen to state changes for conversational chat interface for chat states.
+* **http package** is used to send network requests to the OpenWeather API and other external services to fetch and display weather and car data.
 
 
 
