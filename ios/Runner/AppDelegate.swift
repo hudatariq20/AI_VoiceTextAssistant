@@ -9,5 +9,9 @@ import Flutter
   ) -> Bool {
     GeneratedPluginRegistrant.register(with: self)
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
+
+        // Force Flutter to draw its first frame ASAP
+    self.window?.rootViewController = UIStoryboard(name: "LaunchScreen", bundle: nil).instantiateInitialViewController()
+    return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }
