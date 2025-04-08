@@ -1,4 +1,4 @@
-# AI Assistant (Conversational AI+TEXT)
+# AI Assistant (Conversational AI+TEXT+STT+TTS)
 
 ### Project Overview
 
